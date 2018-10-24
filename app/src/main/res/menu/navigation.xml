@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_gallery"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/image_open" />
+
+    <item
+        android:id="@+id/navigation_frame"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/frame_select" />
+
+    <item
+        android:id="@+id/navigation_save"
+        android:icon="@drawable/save"
+        android:title="@string/save_image" />
+
+</menu>

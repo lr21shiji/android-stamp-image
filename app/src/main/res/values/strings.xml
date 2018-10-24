@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WaterMarker</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="image_open">Open</string>
+    <string name="frame_select">Frame</string>
+    <string name="save_image">Save</string>
+</resources>
